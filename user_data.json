@@ -1,8 +1,6 @@
 {
-    {
-      "number": "6286748008147",
-      "name": "dapz",
-      "status": "active"
-    }
-  ]
+  "6285748008147": {
+    "name": "dapz",
+    "password": "dapz"
+  },
 }
