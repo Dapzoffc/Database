@@ -1,6 +1,14 @@
 {
-  "6285748008147": {
-    "name": "Dapz",
-    "password": "Dapz"
-  },
+  "users":[
+    {
+      "id": "6285748008147"
+      "nama": "Dapz"
+      "password": "Dapz"
+    },
+    {
+      "id": "no lu"
+      "nama": "nama lu"
+      "password": " pwlu"
+    }
+]
 }
