@@ -1,14 +1,9 @@
 {
-  "users":[
+  "users": [
     {
-      "id": "6285748008147"
-      "nama": "Dapz"
-      "password": "Dapz"
-    },
-    {
-      "id": "no lu"
-      "nama": "nama lu"
-      "password": " pwlu"
+      "id": "6286748008147",
+      "name": "dapz",
+      "status": "active"
     }
   ]
 }
